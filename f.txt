@@ -3288,7 +3288,7 @@ if (window['AFMA_notifyMRAIDLoaded'] === undefined) {
         };
         var Ee = function(a) {
             a.oa = {};
-            a.oa.customClosePosition = "top-right";
+            a.oa.customClosePosition = "top-left";
             a.oa.allowOffscreen = !0
         };
         Y.prototype.uc = function(a) {
